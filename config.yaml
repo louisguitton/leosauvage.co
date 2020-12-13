@@ -1,0 +1,74 @@
+baseURL: https://leosauvage.co
+title: leosauvage.co | Leo Sauvage
+
+languageCode: en
+theme: twenty-twenty-hugo
+
+paginate: 10
+
+googleAnalytics: G-47NW8D8FXD
+
+
+############################## Output ###############################
+markup.goldmark.renderer:
+  unsafe: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  author: author
+
+############################## navigation ###############################
+
+menu:
+  main:
+  - name: Home
+    URL: /
+    weight: 1
+
+  - name: About
+    URL: /about
+    weight: 2
+
+  - name: Blog
+    URL: /blog
+    weight: 3
+
+#################### default parameters ################################
+params:
+  # Meta data
+  description: This is meta description
+  author: Themefisher
+
+  cookies:
+    enable: true
+    expire_days: 2
+
+  banner:
+    heading: The New UMoMA Opens its Doors
+    image: images/2020-landscape-1-2.png
+
+  blog:
+    heading: The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months.
+  
+  call_to_action:
+    enable: false
+    title: Contact us for more information.
+    content: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
+    button_label: Contact Us
+    button_url: contact
+
+  gallery:
+    enable: true
+
+    gallery_item:
+      - image: images/2020-square-2.png
+      - image: images/2020-square-1.png
+
+  social:
+    yelp: #
+    facebook: #
+    twitter: #
+    instagram: #
+    email: #
+    linkedin: #
