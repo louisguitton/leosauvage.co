@@ -41,8 +41,7 @@ params:
   author: Themefisher
 
   cookies:
-    enable: true
-    expire_days: 2
+    enable: false
 
   banner:
     heading: The New UMoMA Opens its Doors
