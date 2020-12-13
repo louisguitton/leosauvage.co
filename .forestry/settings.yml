@@ -4,21 +4,35 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
+- type: heading
+  label: Blog Post
 - type: directory
   path: content/blog
-  label: Blog
-  create: all
-  match: "**/*"
+  label: Post
+  create: documents
+  match: "*"
+  templates:
+  - post
+- type: heading
+  label: Others Pages
 - type: directory
   path: content/about
   label: About
+  create: none
+  match: "*"
+- type: directory
+  path: content
+  label: All Pages
   create: all
-  match: "**/*"
+  match: "*"
+- type: heading
+  label: Configuration
+- type: directory
+  path: /
+  label: Configuration
+  create: all
+  match: "*.yaml"
+  new_doc_ext: yaml
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
