@@ -5,32 +5,75 @@ fields:
 - type: text
   name: title
   label: title
+  description: the title for the content.
+  config:
+    required: true
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: subtitle
+  description: the subtitle for the content.
 - type: datetime
   name: date
   label: date
   config:
     date_format: DD/MM/YYYY
-    required: false
+    required: true
   default: now
-- type: file
-  name: image
-  label: image
-- type: list
-  name: author
-  label: author
+  description: the datetime assigned to this page
+- name: lastmod
+  type: datetime
+  label: lastmod
+  description: the datetime at which the content was last modified.
   config:
-    use_select: true
-    source:
-      type: simple
-- type: list
-  name: categories
-  label: categories
-- type: list
-  name: tags
-  label: tags
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
 - type: text
   name: description
   label: description
-  description: Meta description
+  description: the description for the content. Used in meta fields
+- type: file
+  name: image
+  label: image
+  description: page images for Open Graph and Twitter Cards.
+- type: list
+  name: categories
+  label: categories
+  description: the categories for the content.
+  config:
+    use_select: false
+- type: list
+  name: tags
+  label: tags
+  description: the tags for the content.
+  config:
+    use_select: false
+- name: featuredimage
+  type: file
+  config:
+    maxSize: 64
+  label: featuredImage
+  description: the featured image for the content.
+- name: featuredimagepreview
+  type: file
+  config:
+    maxSize: 64
+  description: the featured image for the content preview in the home page.
+  label: featuredImagePreview
+- name: hiddenfromhomepage
+  type: boolean
+  description: if <code>true</code>, the content will not be shown in the home page.
+  label: hiddenFromHomePage
+- name: hiddenFromSearch
+  type: boolean
+  label: hiddenFromSearch
+  description: if <code>true</code>, the content will not be shown in the search results.
+- name: lightgallery
+  type: boolean
+  label: lightgallery
+  description: if <code>true</code>, images in the content will be shown as the gallery.
 pages:
 - content/blog/trasrt.md
