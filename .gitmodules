@@ -1,3 +1,6 @@
 [submodule "themes/twenty-twenty-hugo"]
 	path = themes/twenty-twenty-hugo
 	url = https://github.com/themefisher/twenty-twenty-hugo.git
+[submodule "themes/hugoloveit"]
+	path = themes/hugoloveit
+	url = https://github.com/dillonzq/LoveIt.git

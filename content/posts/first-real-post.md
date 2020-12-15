@@ -1,9 +1,9 @@
 ---
-# https://hugoloveit.com/theme-documentation-content/#front-matter
-title: "{{ replace .Name "-" " " | title }}"
+title: "First Real Post"
+date: 2020-12-15T19:37:03+01:00
+draft: true
 subtitle: ""
-date: {{ .Date }}
-lastmod: {{ .Date }}
+lastmod: 2020-12-15T19:37:03+01:00
 draft: true
 author: ""
 authorLink: ""
@@ -22,8 +22,8 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 twemoji: false
 lightgallery: true
-ruby: false
-fraction: false
+ruby: true
+fraction: true
 fontawesome: true
 linkToMarkdown: true
 rssFullText: false
