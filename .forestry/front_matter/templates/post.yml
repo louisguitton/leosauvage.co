@@ -18,6 +18,10 @@ fields:
 - type: list
   name: author
   label: author
+  config:
+    use_select: true
+    source:
+      type: simple
 - type: list
   name: categories
   label: categories
@@ -28,3 +32,5 @@ fields:
   name: description
   label: description
   description: Meta description
+pages:
+- content/blog/trasrt.md
