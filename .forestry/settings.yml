@@ -39,10 +39,10 @@ sections:
   match: "*.yaml"
   new_doc_ext: yaml
 upload_dir: ''
-public_path: ''
+public_path: https://leosauvage-co-cdn.s3.eu-central-1.amazonaws.com
 front_matter_path: ''
 use_front_matter_path: false
-file_template: 'https://leosauvage-co-cdn.s3.eu-central-1.amazonaws.com/:filename:'
+file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=staging
