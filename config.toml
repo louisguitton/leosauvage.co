@@ -22,21 +22,13 @@ theme = "hugoloveit"
     title = ""
     weight = 1
   [[menu.main]]
-    identifier = "tags"
+    identifier = "about"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
+    name = "About"
+    url = "/about/"
     title = ""
     weight = 2
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
-    weight = 3
 
 
 [params]
@@ -258,13 +250,13 @@ theme = "hugoloveit"
     # whether to enable lightgallery
     lightgallery = false
     #  whether to enable the ruby extended syntax
-    ruby = true
+    ruby = false
     #  whether to enable the fraction extended syntax
-    fraction = true
+    fraction = false
     #  whether to enable the fontawesome extended syntax
     fontawesome = true
     # whether to show link to Raw Markdown content of the content
-    linkToMarkdown = true
+    linkToMarkdown = false
     #  whether to show the full text content in RSS
     rssFullText = false
     #  Table of the contents config
