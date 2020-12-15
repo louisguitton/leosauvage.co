@@ -75,5 +75,3 @@ fields:
   type: boolean
   label: lightgallery
   description: if <code>true</code>, images in the content will be shown as the gallery.
-pages:
-- content/blog/trasrt.md
