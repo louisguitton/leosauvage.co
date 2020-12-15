@@ -7,10 +7,11 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: content/blog
+  path: content/posts
   label: Post
   create: documents
   match: "*"
+  new_doc_ext: ".md"
   templates:
   - post
 - type: heading
@@ -20,11 +21,15 @@ sections:
   label: About
   create: none
   match: "*"
+  templates:
+  - post
 - type: directory
   path: content
   label: All Pages
   create: all
   match: "*"
+  templates:
+  - post
 - type: heading
   label: Configuration
 - type: directory
