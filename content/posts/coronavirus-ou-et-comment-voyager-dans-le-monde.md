@@ -2,7 +2,6 @@
 categories = ["travel"]
 date = 2020-12-16T10:21:34Z
 description = "Johann Jones, ex-OTAN et expert sécurité chez Tourlane, dresse la liste des destinations les plus sûres malgré le COVID-19 et partage ses conseils de voyage."
-draft = true
 featuredimage = "https://leosauvage-co-cdn.s3.eu-central-1.amazonaws.com/Safari_Afrique_du_Sud_Saftey_Ranking_Tourlane.webp"
 featuredimagepreview = ""
 hiddenFromSearch = false
@@ -23,51 +22,11 @@ Pour les aider à préparer au mieux leurs prochaines aventures, Tourlane, le sp
 
 **Quelles sont les destinations internationales les plus sûres ?** Après avoir analysé, trié des centaines de destinations et pris en compte des indicateurs clefs recommandés par Johann Jones, notre expert en sécurité. **Découvrez ci-dessous l'ensemble du classement des destinations les plus sûres pour un voyage post-corona.**
 
-||Rang|Pays|Taux de notification des cas de COVID-19 sur 14
-                    jours|Score du Règlement Sanitaire International (RSI)|Densité de la population par pays|Heures d'ensoleillement par jour|Connexions Aériennes|Score Total|
+||Rang|Pays|Taux de notification des cas de COVID-19 sur 14 jours|Score du Règlement Sanitaire International (RSI)|Densité de la population par pays|Heures d'ensoleillement par jour|Connexions Aériennes|Score Total|
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-||4|Chine|0.0|93|148|5.7|Vol
-                    Direct|38.48|
-||10|Vietnam|0.1|66|308|5.4|Vol
-                    Direct|30.67|
-||3|Thaïlande|0.2|85|135|6.6|Vol
-                    Direct|39.32|
-||11|Cambodge|0.2|50|92|6.9|1
-                    escale|29.87|
-||14|Laos|0.2|35|31|6.1|1
-                    escale|26.54|
-||2|Australie|0.6|92|4|8|1
-                    escale|40.64|
-||17|Île Maurice|0.9|64|623|7.3|1
-                    escale|24.28|
-||6|Nouvelle-Zélande|1.0|90|18|5.8|1
-                    escale|34.94|
-||8|Îles Fidji|1.0|63|48|6.6|1
-                    escale|31.78|
-||9|Zambie|2.7|60|23|6.8|1
-                    escale|31.53|
-||18|Rwanda|3.6|71|499|5.5|1
-                    escale|22.39|
-||1|Égypte|5.2|83|99|9.6|Vol
-                    Direct|44.61|
-||7|Cuba|8.1|78|109|7.8|1
-                    escale|33.48|
-||5|Zimbabwe|9.7|50|37|8.5|Vol
-                    Direct|35.99|
-||15|Ouganda|9.9|66|213|6.6|1
-                    escale|26.42|
-||12|Bolivie|13.4|60|11|7.1|1
-                    escale|28.58|
-||19|Seychelles|21.4|53|210|7|1
-                    escale|21.09|
-||13|Kenya|21.5|43|90|7.5|Vol
-                    Direct|27.46|
-||16|Japon|23.7|95|347|5.2|Vol
-                    Direct|25.97|
-||20|Indonésie (Bali)|27.9|73|148|5.4|1
-                    escale|19.45|
-||Rang|Pays|Taux de notification des cas de COVID-19 sur 14
-                    jours|Score du Règlement Sanitaire International (RSI)|Densité de la population par pays|Heures d'ensoleillement par jour|Connexions Aériennes|Score Total|
+||4|Chine|0.0|93|148|5.7|Vol Direct|38.48|
+||10|Vietnam|0.1|66|308|5.4|Vol Direct|30.67|
+||3|Thaïlande|0.2|85|135|6.6|Vol Direct|39.32|
 
 
 ## Top 5 des destinations touristiques les plus sûres
