@@ -19,7 +19,7 @@ title = "Coronavirus : où et comment voyager dans le monde ?"
 
 Pour les aider à préparer au mieux leurs prochaines aventures, Tourlane, le spécialiste en ligne pour des voyages de rêve sur mesure, s’est appuyé sur l’expertise de son expert sécurité Johann Jones, ancien directeur général de l’OTAN, afin de dresser une **liste des destinations mondiales les plus sûres à la réouverture des frontières. De plus, il a créé une liste de 10 conseils à adopter en amont et pendant votre voyage, pour encore plus de sérénité.**
 
-## **Voyage et Coronavirus : Où prévoir ses vacances ?**
+## Voyage et Coronavirus : Où prévoir ses vacances ?
 
 **Quelles sont les destinations internationales les plus sûres ?** Après avoir analysé, trié des centaines de destinations et pris en compte des indicateurs clefs recommandés par Johann Jones, notre expert en sécurité. **Découvrez ci-dessous l'ensemble du classement des destinations les plus sûres pour un voyage post-corona.**
 
@@ -27,7 +27,7 @@ Pour les aider à préparer au mieux leurs prochaines aventures, Tourlane, le sp
 | --- | --- | --- | --- | --- | --- |
 | 4 | Chine | 0.0 | 93 | 148 | 5.7 |
 
-## **Top 5 des destinations touristiques les plus sûres**
+## Top 5 des destinations touristiques les plus sûres
 
 ![Vue des pyramides dans le désert d'Égypte en Afrique du Nord.](https://images.ctfassets.net/rc3dlxapnu6k/5Q5Zrr8k4BxeuEB0cr9juK/cae4e8451aac69057bbb58c9ade1f835/Afrique_Egypte_Pyramides.jpg?w=720&q=50 "Afrique Egypte Pyramides")
 
@@ -56,7 +56,7 @@ Pour les aider à préparer au mieux leurs prochaines aventures, Tourlane, le sp
 
 **# 5 : Le Zimbabwe**, pays enclavé du sud de l'Afrique, est la troisième destination la plus sûre en raison de son très faible taux de notification de cas de coronavirus, de sa bonne capacité médicale (score RSI) et de sa très faible densité de population. Si vous cherchez un pays isolé avec une faune diversifiée dans des parcs, des réserves et de vastes zones de safari où vous pourrez échapper aux foules, le Zimbabwe est une destination idéale.
 
-## **De nombreux pays africains ouvrent leurs frontières**
+## De nombreux pays africains ouvrent leurs frontières
 
 Règles de quarantaine, test PCR... Plusieurs pays africains ont détaillé les règles d'entrée sur leur territoire que doivent suivre les voyageurs et sont désormais ouverts au tourisme.
 
@@ -76,7 +76,7 @@ Pour plus d'informations sur le statut de ces pays et sur les voyages possibles 
 
 Par ailleurs, la situation sanitaire mondiale évoluant chaque jour, avant de partir en voyage, il est impératif de s’informer des conditions de circulation et de séjour sur le site [Conseils aux Voyageurs du ministère des Affaires étrangères](https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/) et les sites des offices de tourisme des pays concernés.
 
-## **Comment voyager sereinement pendant l'épidémie de Covid-19?**
+## Comment voyager sereinement pendant l'épidémie de Covid-19?
 
 Quels que soient vos projets de vacances en 2020 (séjour hors Hexagone, staycation), vous vous demandez peut-être comment voyager sereinement malgré la crise du coronavirus qui e boulversé nos habitudes de voyage. Découvrez les **10 conseils de voyage sur mesure** de notre expert sécurité, Johann Jones, pour préparer au mieux votre vacances et profiter de votre séjour en toute sécurité une fois sur place.
 
