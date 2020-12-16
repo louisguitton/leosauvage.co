@@ -56,7 +56,8 @@ fields:
   config:
     maxSize: 64
   label: featuredImage
-  description: the featured image for the content.
+  description: the featured image for the content.<br>used for the structured schema,
+    for social sharing to pinterest, and as hero image in the post
 - name: featuredimagepreview
   type: file
   config:
