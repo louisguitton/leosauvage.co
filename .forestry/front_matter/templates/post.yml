@@ -58,12 +58,6 @@ fields:
   label: featuredImage
   description: the featured image for the content.<br>used for the structured schema,
     for social sharing to pinterest, and as hero image in the post
-- name: featuredimagepreview
-  type: file
-  config:
-    maxSize: 64
-  description: the featured image for the content preview in the home page.
-  label: featuredImagePreview
 - name: hiddenfromhomepage
   type: boolean
   description: if <code>true</code>, the content will not be shown in the home page.
