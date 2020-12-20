@@ -152,7 +152,7 @@ theme = "hugoloveit"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/leo.jpeg"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
@@ -418,7 +418,7 @@ theme = "hugoloveit"
       # Publisher info
       [params.page.seo.publisher]
         name = "Leo Sauvage"
-        logoUrl = "/images/avatar.png"
+        logoUrl = "/images/leo.jpeg"
 
   #  TypeIt config
   [params.typeit]
