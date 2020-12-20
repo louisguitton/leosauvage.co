@@ -177,7 +177,7 @@ theme = "hugoloveit"
     GitHub = ""
     Linkedin = "eleonorecodjosauvage"
     Twitter = "LeoSauvage"
-    Instagram = "leo.sauvage"
+    Instagram = ""  # leo.sauvage
     Facebook = ""
     Telegram = ""
     Medium = ""
@@ -237,7 +237,7 @@ theme = "hugoloveit"
     Matrix = ""
     Bilibili = ""
     Email = ""
-    RSS = true # 
+    RSS = false 
 
   #  Page config
   [params.page]
