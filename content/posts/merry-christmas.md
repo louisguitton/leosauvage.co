@@ -2,7 +2,6 @@
 categories = []
 date = 2020-12-25T01:11:12Z
 description = ""
-draft = true
 featuredimage = ""
 hiddenFromSearch = false
 hiddenfromhomepage = false
